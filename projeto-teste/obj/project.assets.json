@@ -7045,11 +7045,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\projeto-teste\\projeto-teste\\projeto-teste.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Nova pasta\\curso-git\\projeto-teste\\projeto-teste.csproj",
       "projectName": "projeto-teste",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\projeto-teste\\projeto-teste\\projeto-teste.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\Nova pasta\\curso-git\\projeto-teste\\projeto-teste.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\projeto-teste\\projeto-teste\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\Nova pasta\\curso-git\\projeto-teste\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
